@@ -1,4 +1,4 @@
-# M09W24 - Advanced Topic: Searching
+# M09W23 - Advanced Topic: Searching
 
 - "Given a bunch of data, how do we find a particular item?"
   - Not a very well-specified, let's try to be a bit more specific
